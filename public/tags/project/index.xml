@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>project on ENMU CS Club</title>
+    <link>/tags/project/</link>
+    <description>Recent content in project on ENMU CS Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Feb 2023 16:09:22 -0700</lastBuildDate><atom:link href="/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project // BWDM Augmented Reality Sandbox</title>
+      <link>/posts/bwdm/</link>
+      <pubDate>Wed, 15 Feb 2023 16:09:22 -0700</pubDate>
+      
+      <guid>/posts/bwdm/</guid>
+      <description>We&amp;rsquo;ll be helping the Blackwater Draw Museum set up their augmented reality sandbox. At one point it worked, but now it doesn&amp;rsquo;t.
+So, if on campus members wanted to work on it, please let me know and we can set up a date and time to meet up. These events can be livestreamed for our remote members, too!</description>
+    </item>
+    
+  </channel>
+</rss>
