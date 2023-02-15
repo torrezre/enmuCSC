@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spring2023 on ENMU CS Club</title>
+    <link>/tags/spring2023/</link>
+    <description>Recent content in spring2023 on ENMU CS Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Feb 2023 16:09:22 -0700</lastBuildDate><atom:link href="/tags/spring2023/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project // BWDM Augmented Reality Sandbox</title>
+      <link>/posts/bwdm/</link>
+      <pubDate>Wed, 15 Feb 2023 16:09:22 -0700</pubDate>
+      
+      <guid>/posts/bwdm/</guid>
+      <description>We&amp;rsquo;ll be helping the Blackwater Draw Museum set up their augmented reality sandbox. At one point it worked, but now it doesn&amp;rsquo;t.
+So, if on campus members wanted to work on it, please let me know and we can set up a date and time to meet up. These events can be livestreamed for our remote members, too!</description>
+    </item>
+    
+    <item>
+      <title>March // Vote on the next meeting date and time</title>
+      <link>/posts/votenextmeeting/</link>
+      <pubDate>Wed, 15 Feb 2023 15:58:16 -0700</pubDate>
+      
+      <guid>/posts/votenextmeeting/</guid>
+      <description>Please vote here!
+You can take the survey more than once if you have more than one day or time that you&amp;rsquo;d be available.</description>
+    </item>
+    
+    <item>
+      <title>March 2 // Student Organization Fair</title>
+      <link>/posts/studentorgfair/</link>
+      <pubDate>Wed, 15 Feb 2023 15:58:01 -0700</pubDate>
+      
+      <guid>/posts/studentorgfair/</guid>
+      <description>TL;DR: When Where 3/2, 10:00am-2:00pm MT Ballroom in CUB, 2nd floor Further Detail We&amp;rsquo;ll have a table at the upcoming Student Organization Fair in the CUB Ballroom on the second floor on March 2nd. Please let me know if you&amp;rsquo;re interested in helping out with the table!</description>
+    </item>
+    
+    <item>
+      <title>Feb 10 // First Meeting 2023</title>
+      <link>/posts/first-meeting-2023/</link>
+      <pubDate>Sun, 05 Feb 2023 12:22:40 -0700</pubDate>
+      
+      <guid>/posts/first-meeting-2023/</guid>
+      <description>TL;DR: When Where Link 2/10, 5:30pm MT Zuni room in CUB, downstairs here (closed) Further Detail Our first meeting this semester will be Friday the 10th at 5:30pm.
+Physical location is Zuni in the CUB building, downstairs. I&amp;rsquo;d like to find a room with a mic that can pick up in person members better, as that was a recurring issue last semester.
+The agenda for the first meeting will be discussing the organization and our plans for this semester, so please feel free to brainstorm and speak up should you have a good idea.</description>
+    </item>
+    
+    <item>
+      <title>Intro</title>
+      <link>/posts/intro/</link>
+      <pubDate>Sun, 05 Feb 2023 12:10:20 -0700</pubDate>
+      
+      <guid>/posts/intro/</guid>
+      <description>TL;DR: This site is for:
+Wider collaboration from outside the club Publicly viewable information for non-members to view Record of past projects, events, and meetings Ongoing project for members to participate directly with Further Detail I&amp;rsquo;d like this website to be a platform and archive for club activities and a connection with the general public. I&amp;rsquo;d also like this to be a website that all members can contribute to, so it&amp;rsquo;s on github.</description>
+    </item>
+    
+  </channel>
+</rss>
